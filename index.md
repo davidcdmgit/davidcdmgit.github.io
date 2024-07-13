@@ -1,11 +1,9 @@
->Wordpress\
->IAWEB\
+>Wordpress en IAWEB
 >Administración de Sistemas Informáticos\
 >IES Chan do Monte\
 >David L. Amenedo\
 >david@edu.xunta.gal
 
-Tabla de contenidos
 
 <!-- vscode-markdown-toc -->
 1. [Instalación](#Instalacin)
