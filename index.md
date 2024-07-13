@@ -9,18 +9,18 @@ Tabla de contenidos
 
 <!-- vscode-markdown-toc -->
 * 1. [Instalación](#Instalacin)
-* 2. [Plantillas](#Plantillas)
-* 3. [Archivos de plantilla](#Archivosdeplantilla)
-* 4. [Creación de un shortcode sencillo](#Creacindeunshortcodesencillo)
-* 5. [Situación del código del shortcode](#Situacindelcdigodelshortcode)
-* 6. [Gestión de los atributos](#Gestindelosatributos)
-* 7. [Función shortcode_atts](#Funcinshortcode_atts)
-* 8. [Gestión del contenido](#Gestindelcontenido)
-* 9. [Devolviendo HTML](#DevolviendoHTML)
-* 10. [Instalación](#Instalacin-1)
-* 11. [Uso de plugins](#Usodeplugins)
-* 12. [Tipos de plugins y ejemplos](#Tiposdepluginsyejemplos)
-* 13. [Creación de plugins](#Creacindeplugins)
+* 1. [Plantillas](#Plantillas)
+* 1. [Archivos de plantilla](#Archivosdeplantilla)
+* 1. [Creación de un shortcode sencillo](#Creacindeunshortcodesencillo)
+* 1. [Situación del código del shortcode](#Situacindelcdigodelshortcode)
+* 1. [Gestión de los atributos](#Gestindelosatributos)
+* 1. [Función shortcode_atts](#Funcinshortcode_atts)
+* 1. [Gestión del contenido](#Gestindelcontenido)
+* 1. [Devolviendo HTML](#DevolviendoHTML)
+* 1. [Instalación](#Instalacin-1)
+* 1. [Uso de plugins](#Usodeplugins)
+* 1. [Tipos de plugins y ejemplos](#Tiposdepluginsyejemplos)
+* 1. [Creación de plugins](#Creacindeplugins)
 
 <!-- vscode-markdown-toc-config
 	numbering=true
