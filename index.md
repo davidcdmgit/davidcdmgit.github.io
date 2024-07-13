@@ -39,11 +39,11 @@ Existen dos formas de crear una página web con WordPress:
 
 * [Wordpress.com](https://wordpress.com)
 
-Es una web donde, una vez identificado, te permite crear tu propio sitio web pero con MUCHAS limitaciones (lógicamente, más limitaciones en la versión gratuita). Los [planes](https://wordpress.com/es/pricing/) son los siguientes:
+Es una web donde, una vez identificado, te permite crear tu propio sitio web pero con MUCHAS limitaciones (lógicamente, más limitaciones en la versión gratuita). Los [planes](https://wordpress.com/es/pricing/) son los siguientes: (* Julio 2024)
 
 !["Planes en wordpress.com"](img/planes.jpg)
 
-La comparativa de los distintos planes es la siguiente (* Julio 2024)
+La comparativa de los distintos planes es la siguiente
 
 !["Comparativa de planes"](img/planesComp.jpg)
 
